@@ -1,0 +1,26 @@
+extends base
+
+block content
+    h1 Student Registration Form
+    form.form.form--register
+        .form-group
+            label(for="student_name") Student name:
+            input#student_name.form__input(type="text" name="name" required placeholder="Student name here")
+
+        .form-group
+            label(for="studentID") Student id:
+            input#studentID.form__input(type="text" name="studentID" required placeholder="Student id here")
+
+        .form-group
+            label(for="email") Email address:
+            input#email.form__input(type="email" name="email" required placeholder="Email address here")
+
+        .form-group
+            label(for="department") Department name:
+            input#department.form__input(type="text" name="department" required placeholder="Department name here")
+
+        .form-group
+            label(for="photo") Upload photo:
+            input#photo.form__upload(type="file" name="photo" accept="image/*")
+
+        button.btn.btn--green(type="submit") Register

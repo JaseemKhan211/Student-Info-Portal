@@ -27,19 +27,25 @@ Welcome to the **Student Information Portal** - a full-stack application develop
 - **CSS**: Styling for a responsive and user-friendly interface.
 
 ### Packeges
+
 - **Express.js**: Routing and API handling.
 - **Mongoose**: ODM for MongoDB with schema-based validation.
 - **Multer**: Middleware for managing file uploads.
 
 ### Liabries
+
 - **SweetAlert**: Stylish JavaScript pop-up alerts for feedback.
 
 ### Architecture
+
 - **MVC**: Implements Model-View-Controller for better code organization and separation of concerns.
 
 ---
 
 ## 📂 Project Structure
+
+```plaintext
+
 .
 ├── controllers        # Handles request logic and data processing
 ├── models             # Mongoose schemas and models

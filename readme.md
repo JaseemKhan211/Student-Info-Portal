@@ -16,25 +16,38 @@ Welcome to the **Student Information Portal** - a full-stack application develop
 
 ## 🛠️ Technologies Used
 
-### Backend
+- [![Node.js][Node.js-badge]][Node.js-url]  
+- [![MongoDB][MongoDB-badge]][MongoDB-url]  
+- [![Mongoose][Mongoose-badge]][Mongoose-url]  
+- [![Express.js][Express.js-badge]][Express.js-url]  
+- [![Multer][Multer-badge]][Multer-url]  
+- [![SweetAlert][SweetAlert-badge]][SweetAlert-url]  
+- [![Pug][Pug-badge]][Pug-url]  
+- [![CSS][CSS-badge]][CSS-url]  
 
-- **Node.js**: Server-side runtime.
-- **MongoDB**: Document database to store student information.
+[Node.js-badge]: https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white  
+[Node.js-url]: https://nodejs.org/  
 
-### Frontend
+[MongoDB-badge]: https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white  
+[MongoDB-url]: https://www.mongodb.com/  
 
-- **Pug**: Template engine for rendering dynamic HTML pages.
-- **CSS**: Styling for a responsive and user-friendly interface.
+[Mongoose-badge]: https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logoColor=white  
+[Mongoose-url]: https://mongoosejs.com/  
 
-### Packeges
+[Express.js-badge]: https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white  
+[Express.js-url]: https://expressjs.com/  
 
-- **Express.js**: Routing and API handling.
-- **Mongoose**: ODM for MongoDB with schema-based validation.
-- **Multer**: Middleware for managing file uploads.
+[Multer-badge]: https://img.shields.io/badge/Multer-FF6F00?style=for-the-badge  
+[Multer-url]: https://github.com/expressjs/multer  
 
-### Liabries
+[SweetAlert-badge]: https://img.shields.io/badge/SweetAlert-FF1493?style=for-the-badge  
+[SweetAlert-url]: https://sweetalert.js.org/  
 
-- **SweetAlert**: Stylish JavaScript pop-up alerts for feedback.
+[Pug-badge]: https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black  
+[Pug-url]: https://pugjs.org/  
+
+[CSS-badge]: https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white  
+[CSS-url]: https://developer.mozilla.org/en-US/docs/Web/CSS
 
 ### Architecture
 

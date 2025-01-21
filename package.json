@@ -9,7 +9,10 @@
   "keywords": [
     "node",
     "mongodb",
-    "express"
+    "express",
+    "pug",
+    "css",
+    "sweetAlert"
   ],
   "author": "Jaseem Khan",
   "license": "ISC",

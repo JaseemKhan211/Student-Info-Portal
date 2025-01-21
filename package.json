@@ -1,7 +1,7 @@
 {
   "name": "student-info-portal",
   "version": "1.0.0",
-  "description": "The Student Information Portal is a web-based project created using the Node.js framework for the frontend with Pug and Node.js, Express.js for the backend, and MongoDB for the database.",
+  "description": "The Student Information Portal is a web-based project using Node.js, Pug, Express.js, and MongoDB.",
   "main": "app.js",
   "scripts": {
     "start": "node server.js"
